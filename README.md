@@ -12,5 +12,5 @@
 
 ## [![WhatsApp carter](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348092733026) 
 
-## [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dark-worf/FUTURE-BOTTO/blob/main)
+## [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Astro-botto/astr-2022/blob/main)
 
